@@ -1,0 +1,11 @@
+@import 'tailwindcss';
+
+@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@300;700&display=swap');
+body {
+  font-family: 'Libre Franklin', sans-serif;
+  color: #222;
+}
+
+@theme {
+  --color-muted-foreground: #666;
+}
